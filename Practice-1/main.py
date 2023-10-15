@@ -136,7 +136,7 @@ def convolution_matrix(filter_matrix):
 
 
 if __name__ == '__main__':
-    image = Image.open('img/imagen_tarea_CNN_reducida.jpg')
+    image = Image.open('img/image_CNN_reduced.jpg')
     greyscale_image = ImageOps.grayscale(image)
 
     # Exercise 1
