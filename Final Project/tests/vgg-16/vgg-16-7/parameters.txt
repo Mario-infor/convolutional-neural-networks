@@ -1,0 +1,16 @@
+epochs = 15
+lr = 0.001
+decremento = 12
+batch_size = 32
+validation_split = 0.1
+optimizer = Adamax
+
+Resultados
+loss: 0.3769
+accuracy: 0.8741
+val_loss: 0.4910
+val_accuracy: 0.8448
+
+Prueba
+Loss: 0.5031828880310059
+Accuracy: 83.63000154495239%

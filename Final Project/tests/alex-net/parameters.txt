@@ -1,0 +1,16 @@
+epochs = 25
+lr = 0.001
+
+batch_size = 32
+validation_split = 0.1
+optimizer = Adam
+
+Resultados
+ loss=0.493
+accuracy=0.838
+val_loss=1.66
+val_accuracy=0.592
+
+Prueba
+Loss:
+Accuracy: 58%

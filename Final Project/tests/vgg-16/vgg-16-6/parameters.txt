@@ -1,0 +1,16 @@
+epochs = 25 (suficiente con 15)
+lr = 1.0
+decremento = 10
+batch_size = 32
+validation_split = 0.1
+optimizer = Adadelta
+
+Resultados
+loss: 0.6122
+accuracy: 0.7948
+val_loss: 0.5967
+val_accuracy: 0.7970
+
+Prueba
+Loss: 0.6017872095108032
+Accuracy: 79.83999848365784%

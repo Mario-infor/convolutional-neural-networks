@@ -1,0 +1,16 @@
+epochs = 25
+lr = 0.001
+decremento = 10
+batch_size = 32
+validation_split = 0.1
+optimizer = SGB
+
+Resultados
+loss: 
+accuracy: 
+val_loss: 
+val_accuracy: 
+
+Prueba
+Loss: 0.7807958126068115
+Accuracy: 72.96000123023987%
